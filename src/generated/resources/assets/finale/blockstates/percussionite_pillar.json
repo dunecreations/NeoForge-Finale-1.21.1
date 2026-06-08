@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "finale:block/percussionite_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "finale:block/percussionite_pillar"
+    },
+    "axis=z": {
+      "model": "finale:block/percussionite_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

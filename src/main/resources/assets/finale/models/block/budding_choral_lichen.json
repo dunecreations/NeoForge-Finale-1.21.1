@@ -1,0 +1,39 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "finale:block/budding_choral_lichen",
+    "budding_choral_lichen": "finale:block/budding_choral_lichen"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0.1
+      ],
+      "to": [
+        16,
+        16,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+          16,
+          0,
+          0,
+          6
+        ], "texture": "#budding_choral_lichen"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ], "texture": "#budding_choral_lichen"
+        }
+      }
+    }
+  ]
+}

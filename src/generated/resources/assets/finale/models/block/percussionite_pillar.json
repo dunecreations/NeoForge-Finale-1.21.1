@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "finale:block/percussionite_pillar_top",
+    "side": "finale:block/percussionite_pillar_side"
+  }
+}

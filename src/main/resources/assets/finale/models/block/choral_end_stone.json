@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "particle": "minecraft:block/end_stone",
+    "down": "minecraft:block/end_stone",
+    "up": "finale:block/choral_lichen",
+    "north": "finale:block/choral_end_stone",
+    "east": "finale:block/choral_end_stone",
+    "south": "finale:block/choral_end_stone",
+    "west": "finale:block/choral_end_stone"
+  }
+}
